@@ -1,0 +1,7 @@
+The  si gnals  we  use  in  the  real  worl d,  such  as  our  voi ce,  are  called  "anal og"  signals. 
+To process these  si gnals  for digi tal communicat i on, we  need to convert anal og  si gnals 
+to  "di gi tal"  form.   While  an  anal og  signal  is  continuous  in  both  time  and  ampli tude,  a 
+di gi tal  signal  is  discrete  in  both  time  and  ampli tude.  To  convert  continuous  time 
+si gnal   to  discrete  time  signal,  a  process  is  used  called  as  sampling.   The  value  of   the 
+si gnal  is  measured  at  certain  intervals  in  time.  Each  measurement  i s  referred  to  as  a 
+sample. 

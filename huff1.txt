@@ -1,0 +1,8 @@
+Pulse  modulation  may  be  used  to  transmit  information,  such  as  continuous  speech  or 
+data.  It  i s  a  system  in  which  continuous  waveforms  are  sampled  at  regular  intervals. 
+Information  regarding  the  signal  is  transmitted  only  at  the  sampling  times,  together 
+with  anysynchronizing pulses that may  be required. At the receiving  end, the original 
+waveforms  may  be  reconstituted  from  the  informati on  regarding  the  samples,  if   these 
+are  taken  frequently  enough.  Despite  the  fact  that  information  about  the  signal  is  not 
+supplied  continuously,  as  in  AM  and  FM,  the  resulting  receiver  output  can  have 
+negligible distortion.
